@@ -1,0 +1,5 @@
+D:/c++ house/Rectangle/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/c++ house/Rectangle/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/c++ house/Rectangle/out/build/x64-debug/Rectangle/CMakeFiles/Rectangle.dir
+D:/c++ house/Rectangle/out/build/x64-debug/Rectangle/CMakeFiles/edit_cache.dir
+D:/c++ house/Rectangle/out/build/x64-debug/Rectangle/CMakeFiles/rebuild_cache.dir
